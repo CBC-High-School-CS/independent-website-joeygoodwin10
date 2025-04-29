@@ -66,8 +66,6 @@ nav a {
 }
 
 
-
-
 /*home*/
 .courses {
    text-align: center;
@@ -75,9 +73,6 @@ nav a {
    border: #000 solid 10px;
 }
 
-.pdemo {
-   background-color: #8a2f8d;
-}
 
 /* CONTACT PAGE */  
 
@@ -91,7 +86,7 @@ nav a {
 }
 
 h2 {
-   text-align: left;
+   text-align: center;
 }
 
 label {
@@ -154,8 +149,8 @@ footer {
 
 /* aside */
 .wordmore {
-   text-align: center;
    font-size: larger;
+   text-align: center;
 }
 
 aside {
